@@ -1,0 +1,45 @@
+﻿.bold
+{
+    font-weight: bold;
+}
+
+.alternateStyle
+{
+    background-color: #CCFF33;
+}
+
+.headerStyle
+{
+    color: #CCFF33;
+    font-size: medium;
+    font-weight: bold;
+    background-color: #999999;
+    text-align: center;
+}
+
+.footerStyle
+{
+    color: #CCFF33;
+    font-size: medium;
+    font-weight: bold;
+    background-color: #999999;
+    text-align: center;
+}
+
+.selectedStyle
+{
+    background-color: #CCFF33;
+}
+
+.menu
+{
+    border: solid 1px #CCFF33;
+    float: left;
+    margin-right: 10px;
+}
+
+a:link, a:visited
+{
+    text-decoration: none;
+    color: Black;
+}
