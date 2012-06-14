@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+    font-family: Verdana;
+    font-size:small;
+}
+
+.bold
+{
+    font-weight:bold;
+}
+
+h1
+{
+    color: #CC0077;
+    font-size:medium;
+}
+
+hr
+{
+    color: #CC0077;
+    width:350px;
+}
+.header
+{
+    font-weight: bold;
+    color:Purple;
+    font-size:x-large;
+}
+
+.customerId
+{
+    background-color:#CC0077;
+    display:block;
+    color:White;
+    text-align:center;    
+    font-weight:bold;
+    font-size:larger;
+    width:350px;
+}
+
+.customerDetail
+{
+    background-color:#EEEEEE;
+    width:350px;   
+}
+
+.pageLeft
+{
+    float:left;
+}
+
+.pageRight
+{
+    float:right;
+    white-space:nowrap;
+}
