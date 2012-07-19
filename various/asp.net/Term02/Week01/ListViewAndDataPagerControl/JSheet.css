@@ -1,0 +1,33 @@
+﻿body {
+}
+
+.alternateStyle
+{
+    font-size:x-large;
+    color:Green;
+}
+
+#categoryList
+{
+    background-color: #E6ECFF;
+    float:left;
+    width:200px;
+}
+
+#categoryList a
+{
+    text-decoration:none;
+    color:Black;
+}
+
+
+#categoryList a:hover
+{
+    text-decoration:underline;
+    color:Black;
+}
+
+#selected
+{
+    background-color:#CCFF80;
+}
