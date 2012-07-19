@@ -1,0 +1,5 @@
+c:\users\juehan.lee\documents\visual studio 2010\Projects\test\juehanlee\juehanlee\bin\juehanlee.dll
+c:\users\juehan.lee\documents\visual studio 2010\Projects\test\juehanlee\juehanlee\bin\juehanlee.pdb
+c:\users\juehan.lee\documents\visual studio 2010\Projects\test\juehanlee\juehanlee\obj\Debug\ResolveAssemblyReference.cache
+c:\users\juehan.lee\documents\visual studio 2010\Projects\test\juehanlee\juehanlee\obj\Debug\juehanlee.dll
+c:\users\juehan.lee\documents\visual studio 2010\Projects\test\juehanlee\juehanlee\obj\Debug\juehanlee.pdb
