@@ -1,10 +1,24 @@
-﻿body {
+﻿body 
+{
+    font-family:arial;
 }
 
 .alternateStyle
 {
     font-size:x-large;
     color:Green;
+}
+
+.insertStyle
+{
+    background-color:Aqua;
+       
+}
+
+.boldStyle
+{
+    font-weight:bold;
+    
 }
 
 #categoryList
