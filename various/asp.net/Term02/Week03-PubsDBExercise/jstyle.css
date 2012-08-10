@@ -1,0 +1,90 @@
+﻿
+b{font-size: 110%;}
+
+em{color: red;}
+
+
+body
+{
+    background-color:#006699;
+    font-family:Verdana, Arial, Sans-Serif;
+    font-size:small;
+}
+
+
+#maincontainer{
+float: left;
+background: white;
+}
+
+#wrapper
+{
+    width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+#header
+{
+    display:block;
+    height:150px;
+    background:white;
+}
+
+#topsection h1{
+margin: 0;
+padding-top: 15px;
+}
+
+#leftcolumn{
+width: 230px; /*Width of left column in pixel*/
+float: left;
+margin-right:10px;
+margin-left:10px;
+
+}
+
+#contentcolumn{
+width:400px;
+float:left;
+
+}
+
+#rightcolumn{
+width: 230px; /*Width of right column*/
+float: left;
+margin-right:10px;
+margin-left:10px;
+
+}
+
+#footer{
+clear: left;
+width: 100%;
+background: #6495ED;
+color: #FFF;
+text-align: center;
+padding: 4px 0;
+}
+
+#footer a{
+color: #FFFF80;
+}
+
+
+.innertube{
+margin: 10px; /*Margins for inner DIV inside each column (to provide padding)*/
+margin-top: 0;
+}
+
+
+.clearFix:after
+{
+    display: block;
+    clear: both;
+    content: ".";
+    visibility: hidden;
+    height: 0;
+    line-height: 0;
+}
+
