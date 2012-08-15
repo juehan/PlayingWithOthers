@@ -1,0 +1,4 @@
+C:\git\study\Asp.Net.Collection\Asp.Net.Collection\bin\Asp.Net.Collection.dll
+C:\git\study\Asp.Net.Collection\Asp.Net.Collection\bin\Asp.Net.Collection.pdb
+C:\git\study\Asp.Net.Collection\Asp.Net.Collection\obj\Debug\Asp.Net.Collection.dll
+C:\git\study\Asp.Net.Collection\Asp.Net.Collection\obj\Debug\Asp.Net.Collection.pdb
