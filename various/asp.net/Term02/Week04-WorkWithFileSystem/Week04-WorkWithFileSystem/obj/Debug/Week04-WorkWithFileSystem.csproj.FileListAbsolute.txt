@@ -1,0 +1,4 @@
+C:\Users\John\Documents\GitHub\PlayingWithOthers\various\asp.net\Term02\Week04-WorkWithFileSystem\Week04-WorkWithFileSystem\bin\Week04-WorkWithFileSystem.dll
+C:\Users\John\Documents\GitHub\PlayingWithOthers\various\asp.net\Term02\Week04-WorkWithFileSystem\Week04-WorkWithFileSystem\bin\Week04-WorkWithFileSystem.pdb
+C:\Users\John\Documents\GitHub\PlayingWithOthers\various\asp.net\Term02\Week04-WorkWithFileSystem\Week04-WorkWithFileSystem\obj\Debug\Week04-WorkWithFileSystem.dll
+C:\Users\John\Documents\GitHub\PlayingWithOthers\various\asp.net\Term02\Week04-WorkWithFileSystem\Week04-WorkWithFileSystem\obj\Debug\Week04-WorkWithFileSystem.pdb
