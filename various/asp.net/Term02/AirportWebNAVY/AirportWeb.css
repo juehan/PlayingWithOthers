@@ -1,0 +1,46 @@
+﻿body { 
+    font-family: Tahoma;
+}
+div.PgDescDiv { 
+    width: 75%; 
+    }
+#divBrdLnk { 
+    text-align: right 
+    }
+h3 { 
+    
+    color: #6699FF
+}
+
+p
+{
+    font-family: Tahoma;
+}
+.PgDesc
+{
+    
+    color: #6699FF;
+    font-family: Tahoma;
+}
+a {
+    
+    font-family: Tahoma;
+    
+}
+.BoredLnk
+{
+    text-align: right;
+    font-size: small;
+}
+
+a:link{ color: #0000FF; }
+a:visited{ color: #FF00FF; }
+a:hover{ color: #00CCFF; }
+a:active{ color: #FF0000; }
+
+
+span
+{
+    width: 200px;
+    float: left;
+}
