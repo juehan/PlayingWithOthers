@@ -1,0 +1,4 @@
+H:\03.Michale\week14\mycode\Part1\Part1\Q2_Writing_to_files\bin\Debug\Q2_Writing_to_files.exe
+H:\03.Michale\week14\mycode\Part1\Part1\Q2_Writing_to_files\bin\Debug\Q2_Writing_to_files.pdb
+H:\03.Michale\week14\mycode\Part1\Part1\Q2_Writing_to_files\obj\x86\Debug\Q2_Writing_to_files.exe
+H:\03.Michale\week14\mycode\Part1\Part1\Q2_Writing_to_files\obj\x86\Debug\Q2_Writing_to_files.pdb

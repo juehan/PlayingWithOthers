@@ -1,0 +1,6 @@
+H:\03.Michale\week14\mycode\Part1\Part1\Q5\bin\Debug\Q5.exe
+H:\03.Michale\week14\mycode\Part1\Part1\Q5\bin\Debug\Q5.pdb
+H:\03.Michale\week14\mycode\Part1\Part1\Q5\obj\x86\Debug\Q5.exe
+H:\03.Michale\week14\mycode\Part1\Part1\Q5\obj\x86\Debug\Q5.pdb
+E:\03.Michale\week14\mycode\Part1\Part1\Q5\obj\x86\Debug\Q5.exe
+E:\03.Michale\week14\mycode\Part1\Part1\Q5\obj\x86\Debug\Q5.pdb

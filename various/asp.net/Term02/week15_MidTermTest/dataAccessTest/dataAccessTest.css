@@ -1,0 +1,73 @@
+﻿/*
+Author: Juehan Lee <juehan.lee@tafensw.net.au>
+Date: 08-Nov-2012
+Description: CSS for data access test web application
+*/
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333
+}
+
+p {
+    padding: 10px;
+}
+
+#wrapper {
+    overflow: hidden;
+    background-color:#8B7500;
+    
+}
+
+#inner{
+    overflow: hidden;
+    background-color:White;
+
+    margin-left:50px;
+    margin-top:10px;
+    margin-bottom:50px;
+    margin-right:50px;
+    
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+}
+
+#header {
+    float: left;
+    height: 75px;
+}
+
+#leftcolumn {
+    float:left;
+    width: 150px;
+}
+
+#content {
+    
+    float:left;
+    margin-left: 30px;
+}
+
+#empty {
+    clear:both;
+}
+
+#footer {
+    text-align:center;
+    height: 60px;
+    clear: both;
+    position:relative;
+    bottom:0px;
+}
+
+.title {
+    color:#8B008B;
+    font-size:large;
+}
+
+.bar {
+    color:#8B7500;    
+}

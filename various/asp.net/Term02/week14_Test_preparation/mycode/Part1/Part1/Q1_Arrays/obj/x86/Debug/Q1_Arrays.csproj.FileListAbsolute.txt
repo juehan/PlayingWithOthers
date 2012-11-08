@@ -1,0 +1,4 @@
+H:\03.Michale\week14\mycode\Part1\Part1\Q1_Arrays\bin\Debug\Q1_Arrays.exe
+H:\03.Michale\week14\mycode\Part1\Part1\Q1_Arrays\bin\Debug\Q1_Arrays.pdb
+H:\03.Michale\week14\mycode\Part1\Part1\Q1_Arrays\obj\x86\Debug\Q1_Arrays.exe
+H:\03.Michale\week14\mycode\Part1\Part1\Q1_Arrays\obj\x86\Debug\Q1_Arrays.pdb

@@ -1,0 +1,37 @@
+﻿body {
+}
+
+
+.error
+{
+    display: block;
+    color:#993333;
+    border: 1px solid #993333;
+    padding: 10px 15px;
+    text-align: center;
+    margin: 20px 50px;
+}
+
+
+.confirmation
+{
+    display: block;
+    color:#339933;
+    border: 1px solid #339933;
+    padding: 10px 15px;
+    text-align: center;
+    margin: 20px 50px;
+}
+
+
+.left
+{
+    width: 250px;
+    float: left;
+}
+
+.right
+{
+    clear: both;
+}
+

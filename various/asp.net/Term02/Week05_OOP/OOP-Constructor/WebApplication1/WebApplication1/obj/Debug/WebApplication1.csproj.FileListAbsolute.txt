@@ -1,0 +1,5 @@
+E:\03.Michale\Week05\OOP-Constructor\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\03.Michale\Week05\OOP-Constructor\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\03.Michale\Week05\OOP-Constructor\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\03.Michale\Week05\OOP-Constructor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\03.Michale\Week05\OOP-Constructor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
